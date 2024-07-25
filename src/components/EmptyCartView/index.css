@@ -5,13 +5,13 @@
   align-self: center;
 }
 
-.cart-empty-image {
+.cart-empty-img {
   width: 180px;
   height: 190px;
 }
 
 @media screen and (min-width: 768px) {
-  .cart-empty-image {
+  .cart-empty-img {
     width: 360px;
     height: 380px;
   }
